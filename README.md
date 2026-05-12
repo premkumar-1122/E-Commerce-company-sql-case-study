@@ -518,10 +518,10 @@ This project is released under the [MIT License](LICENSE). You are free to use, 
 
 | | |
 |---|---|
-| **Maintainer** | Your Name |
-| **Email** | your.email@example.com |
-| **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| **GitHub** | [github.com/your-username](https://github.com/your-username) |
+| **Maintainer** | Prem kumar Gara |
+| **Email** | garapremkumar7@gmail.com |
+| **LinkedIn** | [linkedin.com/in/prem-kumar-gara](https://www.linkedin.com/in/prem-kumar-gara-4aa95b132/) |
+| **GitHub** | [github.com/premkumar-1122](https://github.com/premkumar-1122) |
 
 ---
 
