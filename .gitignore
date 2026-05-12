@@ -1,0 +1,42 @@
+# ─── MySQL / Database ────────────────────────────────────────────────────────
+# Credential files
+*.cnf
+my.ini
+.my.cnf
+.env
+
+# ─── Large Data Exports ──────────────────────────────────────────────────────
+results/*.csv
+results/*.xlsx
+results/*.tsv
+data/raw/
+
+# ─── OS Artifacts ────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── Editor / IDE ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# ─── Python (if using scripts for data processing) ───────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# ─── Logs ────────────────────────────────────────────────────────────────────
+*.log
+mysql_error.log
